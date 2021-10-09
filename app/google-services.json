@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1032556013023",
+    "firebase_url": "https://yourgeekfriend-26500.firebaseio.com",
+    "project_id": "yourgeekfriend-26500",
+    "storage_bucket": "yourgeekfriend-26500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032556013023:android:0dc3d42f1a4785da",
+        "android_client_info": {
+          "package_name": "com.inteli3ssd.yourgeekfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032556013023-3uu3pl9sd4ojb75bcisvlr0pakoh05sg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1032556013023-3uu3pl9sd4ojb75bcisvlr0pakoh05sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFdd_FvEQLmolrHNmbfMQBoWtlhsbET8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
